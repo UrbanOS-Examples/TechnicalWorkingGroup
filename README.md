@@ -80,6 +80,13 @@ There are two types of projects to be promoted:
 
 ### Define Topics for community events to engage outside contributors
 
+SmartColumbusOS topics for community outreach are prioritized and align to Smart Columbus long-term and short-term goals/initiatives.
+
+* **Community Speaking Engagements**: Share the upcoming initiatives to promote upcoming projects to indentify individuals within the community that can contribute.
+* **Hackathons**: Identify themes to have single-track topics for Hackathons. Provide insights and research for initiatives that are related to topics. 
+
+
+
 ### Share progress of SC initatives and progress of projects
 
 
