@@ -67,7 +67,23 @@ Finally we will need to identify issues, approaches and next steps. For example,
 * Consider licensing for SmartColumbusOS data.  For example, the OpenStreetMap foundation uses the [Open Database License](https://en.wikipedia.org/wiki/Open_Database_License)
 
 
-## Engagement Practices
+## Engagement Practices with Community
+
+### Promote Open-Source Projects
+
+With alignment of [Open Source](#link-to-wiki), ensure the projects are able to be forked by external individuals to contribute to the on-going projects. The projects should be promoted to provide resources to the community that advance their current development work and used as a resource to better the projects being hosted be SmartColumbusOS. 
+
+There are two types of projects to be promoted:
+
+* **Projects in-development**: Projects that are currently within their development cycle, target individuals in the community to contribute and collaborate to finalize the development efforts. Alignment of contributions align to [Open Source Contribution](#link-to-wiki) for engagement.
+* **Projects that have stable-release**: Projects that have had a stable release are intended to be forked and be used within various development projects. Having these projects listed as stable with their use-cases being made available will increase the usage of the projects. These projects can have their own demos to showcase the benefits of the project. Projects can be submitted to Open Source listings and submitted to Search Engines for external communitites to discover.
+
+### Define Topics for community events to engage outside contributors
+
+### Share progress of SC initatives and progress of projects
+
+
+
 
 ## Open-Source Projects
 
