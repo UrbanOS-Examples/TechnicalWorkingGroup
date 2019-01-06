@@ -71,7 +71,7 @@ Finally we will need to identify issues, approaches and next steps. For example,
 
 ### Promote Open-Source Projects
 
-With alignment of [Open Source](#link-to-wiki), ensure the projects are able to be forked by external individuals to contribute to the on-going projects. The projects should be promoted to provide resources to the community that advance their current development work and used as a resource to better the projects being hosted be SmartColumbusOS. 
+With alignment of [Open Source](#link-to-wiki), ensure the projects are able to be forked by external individuals to contribute to the on-going projects. The projects should be promoted to provide resources to the community that advance their current development work and used as a resource to better the projects being hosted by SmartColumbusOS. 
 
 There are two types of projects to be promoted:
 
@@ -86,16 +86,23 @@ SmartColumbusOS topics for community outreach are prioritized and align to Smart
 * **Hackathons**: Identify themes to have single-track topics for Hackathons. Provide insights and research for initiatives that are related to topics. 
 
 
-
 ### Share progress of SC initatives and progress of projects
 
+To engage community and external resources sharing progress of of SmartColumbusOS increases awareness to initiatives and releases. Cadence for sharing is critical to having community engaged.
 
+* **Newsletter**: Once a month newsletter that publishes are releases, asks for the community, goals for upcoming month, and any upcoming Smart City events.
+* **Community Speaking Engagements**: On a quartly basis, have an online web cast sharing progress and promoting how individuals can get involved. 
 
 
 ## Open-Source Projects
 
-## Community Events
+* Providing responses to contributors on Github within a timely
 
+(More Details to follow, this is just some thoughts written down)
+
+
+## Community Events
+Pr
 
 
 ## Hackathons
