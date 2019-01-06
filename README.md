@@ -96,28 +96,47 @@ To engage community and external resources sharing progress of of SmartColumbusO
 
 ## Open-Source Projects
 
-* Providing responses to contributors on Github within a timely
+* Providing timely responses to contributors on Github
+* Engaging in foked project repositories and providing support to these projects
+* Create demos that demonstrate the projects
+* Film "how to use" videos for stable projects to help contributors get started using SmartColumbusOS projects.
 
 (More Details to follow, this is just some thoughts written down)
 
 
 ## Community Events
-Pr
+
+On a quartly basis, have an online web cast sharing progress and promoting how individuals can get involved. 
+
+* **[Meetup.com](https://meetup.com)**: The Smart Columbus Meetup Group provides insights and support to the community by having quartley events outlining progress and sharing topics. "Pop up" events occur throughout the year to create a network of outside thinkers to meet other like-minded individuals. 
+* **Community Events**: Local community Meetup Groups consistently are looking for presenters for their events. Aligning topics to the specific groups and providing the appropriate speaker.
+  * [Columbus Web Group](http://columbuswebgroup.com): Group for designers, developers, project managers, and strategist to be inspired about trends in the market
+  * [Westerville Web](https://www.meetup.com/westervilleweb/): Technology, software, design, UI/UX, app development, animation, video/audio production, startups, entrepreneurship
+  * [Buckeye-Cocoa](https://www.meetup.com/Buckeye-Cocoa/): iOS and Mac development
+  * (more to be listed)
+* **Conferences**: Submit topics from Smart Columbus to conferences.
+  * CodeMash
+  * StirTrek
+  * Lift
+  * (more to be listed)
+* **Sponsoring**: Sponsoring community events.
+  
+(More Details to follow, this is just some thoughts written down)
+
 
 
 ## Hackathons
 
+Organized twice a year, to bring the community together to talk about identified issues and solve them with innovative solutions.
 
+* Launch new ideas
+* Foster solutions
+* Outlet for SmartColumbusOS
+* Awareness
+* (more to add)
 
-### Frequency 
+(More Details to follow, this is just some thoughts written down)
 
-
-
-## Community Groups
-
-
-
-### Speaking engagements
 
 ----
 
