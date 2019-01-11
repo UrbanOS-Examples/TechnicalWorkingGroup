@@ -136,11 +136,41 @@ Organized twice a year, to bring the community together to talk about identified
 * Awareness
 * (more to add)
 
-(More Details to follow, this is just some thoughts written down)
+Events are sponsored and facilitated by Smart Columbus.
+
+
+## Social Media
+
+A consistent and branded experience for social media is a necessity for growing the distribution of content online. 
+
+* **Social calendar**: Identify posts, create, and schedule posts to be published on all social media outlets.
+* **Share, but don't overshare**: Make posts be engaging and informative but not all content needs to be published. Having quality posts will lead to sharing, engagement and followers.
+* **Consistency across outlets**: Post content on all outlets and align posts to the best practices of the platform.
+* **Respond to followers**: Posting is only one aspect of social media, responding and direct communication with followers can lead to additional engagement and opportunity to share additional content.
+
 
 
 ## How To Contribute
 
+To create an on-going community, outside influence and support is a necessity for the success of SmartCity Columbus Operating System (SmartColumbusOS). There are various ways to have community members get involved:
+
+* **Contribute to SmartColumbusOS (Open Source Projects)**: (blurb here)
+* **Attend events**: (blurb here)
+  * Each month The Smart Columbus Open Data Enthusiasts meets to share ideas with the community, sign up on [meetup.com](https://www.meetup.com/Smart-Columbus-Open-Data-Enthusiasts/).
+  * Each quarter Smart Columbus shares outcomes and initiatives publicly, read our newsletters and provide us feedback.
+  * Twice a year Smart Columbus has a Hackathon, these Hackathons are intended to listen to the community and contribute new ideas that can be integrated within Smart Columbus and better our community.
+  * 
+* **Volunteer at events**: At Smart Columbus events, there are always a need to have extra hands aiding in events.
+  * Sponsor an event
+  * Mentor at Hackathons
+  * Greet and meet attendees at events and help setup events
+* **Share ideas**: With all the content being generated, we ask the community to share our events and content within their networks.
+* **Be an advocate**: You know of us, but does your neighbor? Help us spread the word and share our initiatives.
+* **Apply for a role**: (Job board page)
+* **Follow us**: We're on Social Media, interact with us on our various channels.
+ * Facebook
+ * Twitter
+ * Instagram 
 
 ----
 
