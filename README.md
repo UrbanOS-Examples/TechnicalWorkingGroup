@@ -59,7 +59,7 @@ Finally we will need to identify issues, approaches and next steps. For example,
 ### Provide a structured intake and project management framework with minimum barrier to entry
 * The frameworks provided must ensure that new participants are welcomed, and have meaningful ways to engage on useful work with as few barriers as possible while still providing a minimum amount of structure.  
 * Support innovation and increase the contributor base by having an intake process for filtering projects and mentoring new teams on the SC OS ways of working.  See Apache's [Foundation Incubator](http://apache.org/foundation/how-it-works.html#incubator) as an example.
-* Provide a structured yet collaborate and consensus-based distributed project management framework.  See Apache's Project Management and Collaboration [framework](http://apache.org/foundation/how-it-works.html#management) as an example.
+* Provide a structured yet collaborative and consensus-based distributed project management framework.  See Apache's Project Management and Collaboration [framework](http://apache.org/foundation/how-it-works.html#management) as an example.
 * Increase engagement and productivity by providing a structure for project and issue management.  For example, (1) assign labels to github issues and assign issues to milestones and (2)use github wiki for more detailed project documentation.  These are things we have learned from using github for our collaborative work.
 
 ### Ensure that licensing decisions do not create barriers to community engagement
@@ -75,7 +75,7 @@ With alignment of [Open Source](#link-to-wiki), ensure the projects are able to 
 
 There are two types of projects to be promoted:
 
-* **Projects in-development**: Projects that are currently within their development cycle, target individuals in the community to contribute and collaborate to finalize the development efforts. Alignment of contributions align to [Open Source Contribution](#link-to-wiki) for engagement.
+* **Projects in-development**: Projects that are currently within their development cycle, target individuals in the community to contribute and collaborate to finalize the development efforts. Alignment of contributions to the [Open Source Contribution](#link-to-wiki) for engagement.
 * **Projects that have stable-release**: Projects that have had a stable release are intended to be forked and be used within various development projects. Having these projects listed as stable with their use-cases being made available will increase the usage of the projects. These projects can have their own demos to showcase the benefits of the project. Projects can be submitted to Open Source listings and submitted to Search Engines for external communitites to discover.
 
 ### Define Topics for community events to engage outside contributors
@@ -88,7 +88,7 @@ SmartColumbusOS topics for community outreach are prioritized and align to Smart
 
 ### Share progress of SC initatives and progress of projects
 
-To engage community and external resources sharing progress of of SmartColumbusOS increases awareness to initiatives and releases. Cadence for sharing is critical to having community engaged.
+To engage community and external resources sharing progress of SmartColumbusOS increases awareness to initiatives and releases. Cadence for sharing is critical to having community engaged.
 
 * **Newsletter**: Once a month newsletter that publishes are releases, asks for the community, goals for upcoming month, and any upcoming Smart City events.
 * **Community Speaking Engagements**: On a quartly basis, have an online web cast sharing progress and promoting how individuals can get involved. 
@@ -108,7 +108,7 @@ To engage community and external resources sharing progress of of SmartColumbusO
 
 On a quartly basis, have an online web cast sharing progress and promoting how individuals can get involved. 
 
-* **[Meetup.com](https://meetup.com)**: The Smart Columbus Meetup Group provides insights and support to the community by having quartley events outlining progress and sharing topics. "Pop up" events occur throughout the year to create a network of outside thinkers to meet other like-minded individuals. 
+* **[Meetup.com](https://www.meetup.com/Smart-Columbus-Open-Data-Enthusiasts/)**: The SSmart Columbus Open Data Enthusiasts Meetup Group provides insights and support to the community by having quartley events outlining progress and sharing topics. "Pop up" events occur throughout the year to create a network of outside thinkers to meet other like-minded individuals. 
 * **Community Events**: Local community Meetup Groups consistently are looking for presenters for their events. Aligning topics to the specific groups and providing the appropriate speaker.
   * [Columbus Web Group](http://columbuswebgroup.com): Group for designers, developers, project managers, and strategist to be inspired about trends in the market
   * [Westerville Web](https://www.meetup.com/westervilleweb/): Technology, software, design, UI/UX, app development, animation, video/audio production, startups, entrepreneurship
@@ -118,8 +118,9 @@ On a quartly basis, have an online web cast sharing progress and promoting how i
   * CodeMash
   * StirTrek
   * Lift
+  * [Interact](https://www.interactohio.com)
   * (more to be listed)
-* **Sponsoring**: Sponsoring community events.
+* **Sponsoring**: Sponsoring community events by providing a space for community events, donating food and drinks, and providing utilities for speakers. (is there a contact for this?)
   
 (More Details to follow, this is just some thoughts written down)
 
@@ -136,6 +137,9 @@ Organized twice a year, to bring the community together to talk about identified
 * (more to add)
 
 (More Details to follow, this is just some thoughts written down)
+
+
+## How To Contribute
 
 
 ----
